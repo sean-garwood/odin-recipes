@@ -1,4 +1,21 @@
+* {
+    background-color: bisque;
+}
+
 h1 {
     color: pink;
     font-family: cursive;
+}
+
+.breakfast {
+    background-color: yellow;
+    font-size: 24px;
+}
+
+.lunch  {
+
+}
+
+.dinner {
+
 }
